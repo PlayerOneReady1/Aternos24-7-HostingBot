@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "25kJoshhh.aternos.me",
     "port": 41684,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "-",
+        ".",
+        ","
       ]
     },
     "chat-log": true,
